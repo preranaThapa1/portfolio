@@ -1,20 +1,49 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ✨ Prerana Thapa — Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio! 🌷
 
-This contains everything you need to run your app locally.
+This website is a collection of my projects, skills, interests, and learning journey as a computer science student.
 
-View your app in AI Studio: https://ai.studio/apps/8125f6a2-a881-4c26-b195-e90afa465ced
+## 🌸 About Me
 
-## Run Locally
+Hi! I'm Prerana Thapa, a computer science student who enjoys learning about technology, programming, and web development.
 
-**Prerequisites:**  Node.js
+I'm continuously learning and working on different projects to improve my technical and creative skills.
 
+## 💻 Skills
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- HTML
+- CSS
+- UI/UX
+- Python
+- C / C++
+- SQL
+- Git & GitHub
+- Web Development
+
+## 🚀 Projects
+
+### 🌷 Personal Portfolio
+My personal portfolio website showcasing my skills, projects, and interests.
+
+### ✨ Manifesting App
+A simple and aesthetic web application designed around manifestation and positive thinking.
+
+## 🎯 Currently Learning
+
+- Web Development
+- JavaScript
+- Database Management
+- Software Development
+- Git & GitHub
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/preranaThapa1
+- LinkedIn: www.linkedin.com/in/prerana-thapa01
+
+---
+
+### 💖 Thank you for visiting my portfolio!
+
+Made with ❤️ by Prerana Thapa
